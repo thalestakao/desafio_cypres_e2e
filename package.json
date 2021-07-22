@@ -1,0 +1,16 @@
+{
+  "name": "e2e-loja-online",
+  "version": "1.0.0",
+  "description": "desafio e2e",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.0.0",
+    "cypress-iframe": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thales B. Takao",
+  "license": "ISC"
+}
